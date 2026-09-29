@@ -4,7 +4,7 @@
 using namespace std;
 
 struct Edge {
-    int from, to;
+    int from, to ;
 };
 
 int main() {
